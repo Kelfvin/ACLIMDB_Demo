@@ -1,0 +1,19 @@
+[project]
+name = "ACLIMDB-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "d2l>=0.17.0",
+    "jupyter>=1.1.1",
+    "kaggle>=1.6.17",
+    "kagglehub>=0.3.5",
+    "matplotlib>=3.10.0",
+    "nltk>=3.9.1",
+    "prettytable>=3.12.0",
+    "tensorboard>=2.18.0",
+    "torch>=2.5.1",
+    "torchtext>=0.18.0",
+    "torchvision>=0.20.1",
+]
